@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ButtonNavegation</string>
+    <string name="title_home">Home</string>
+    <string name="title_guardados">Guardados</string>
+    <string name="title_notas">Notas</string>
+    <string name="title_calendario">Calendario</string>
+    <string name="title_busqueda">Busqueda</string>
+</resources>
